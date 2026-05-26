@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routereetch",
+        "uuid": 9225348,
+        "checksum": "y0dprk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
